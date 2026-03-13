@@ -1,0 +1,5 @@
+{
+  "name": "Terminal Snake",
+  "description": "A classic Snake game with a terminal-inspired ASCII aesthetic, featuring both a web-based version and a standalone Python script.",
+  "requestFramePermissions": []
+}
